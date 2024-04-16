@@ -1,0 +1,103 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Tailwind CSS Mastery",
+      "slug": "tailwind-css-mastery",
+      "description": "Learn the famous Node.js library and all the concepts of Node.js in this course from zero to advance.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/tailwind.jpg",
+      "link": "https://github.com/zhashkevych/awesome-backend?source=post_page-----55c9f5b72cec--------------------------------"
+    },
+    {
+      "id": 2,
+      "title": "Material UI + Tailwind CSS Components",
+      "slug": "material-ui-tailwind-css-components",
+      "description": "Clear all your fundamentals of JavaScript and enhance plus nurture web dev skills more efficiently.",
+      "price": 109.99,
+      "instructor": "Arnim Kumar",
+      "isFeatured": true,
+      "image": "/courses/mui.png",
+      "link": "https://github.com/ryanmcdermott/clean-code-javascript"
+    },
+    {
+      "id": 3,
+      "title": "Accertinity UI Components",
+      "slug": "accertinity-ui-components",
+      "description": "Enhance your Accertinity UI components and you can use these components in your website for better implementation.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/images.jpeg",
+      "link": "https://github.com/angular/angular"
+    },
+    {
+      "id": 4,
+      "title": "Shadcn Direct Components",
+      "slug": "shadcn-direct-components",
+      "description": "Get here and you can clone as it some of the awesome Shadcn components here so that you will be able to implement the components.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/shadcn.png",
+      "link": "https://github.com/vercel/next.js"
+    },
+    {
+      "id": 5,
+      "title": "Node.js Mastery",
+      "slug": "nodejs-mastery",
+      "description": "Learn the famous Node.js library and all the concepts of Node.js in this course from zero to advance.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/nodejs.jpg",
+      "link": "https://github.com/zhashkevych/awesome-backend?source=post_page-----55c9f5b72cec--------------------------------"
+    },
+    {
+      "id": 6,
+      "title": "JavaScript for Beginners",
+      "slug": "javascript-for-beginners",
+      "description": "Clear all your fundamentals of JavaScript and enhance plus nurture web dev skills more efficiently.",
+      "price": 109.99,
+      "instructor": "Arnim Kumar",
+      "isFeatured": true,
+      "image": "/courses/images.png",
+      "link": "https://github.com/ryanmcdermott/clean-code-javascript"
+    },
+    {
+      "id": 7,
+      "title": "Angular JS Crash Course",
+      "slug": "angular-js-crash-course",
+      "description": "Enhance your Angular Framework skills for backend and as well as frontend development with a single course.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/angular.png",
+      "link": "https://github.com/angular/angular"
+    },
+    {
+      "id": 8,
+      "title": "Next.js Mastery",
+      "slug": "nextjs-mastery",
+      "description": "Master the most advanced library which is built on the React library by Vercel company and having the functionality of server-side rendering and as well as component rendering into the server directly.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/nextjs.png",
+      "link": "https://github.com/vercel/next.js"
+    },
+    {
+      "id": 9,
+      "title": "Django Mastery",
+      "slug": "django-mastery",
+      "description": "Master the most advanced backend framework called Django which is built in Python and its extremely fast and responsive for data-intensive application.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/django.png",
+      "link": "https://github.com/orgs/django/repositories"
+    }
+  ]
+}
