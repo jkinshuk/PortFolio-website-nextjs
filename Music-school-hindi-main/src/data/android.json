@@ -8,7 +8,7 @@
             "price": 99.99,
             "instructor": "John Doe",
             "isFeatured": true,
-            "image": "/courses/guitar.jpg" ,
+            "image": "/courses/android.jpeg" ,
             "Link" : "https://github.com/zhashkevych/awesome-backend?source=post_page-----55c9f5b72cec--------------------------------"
           },
           {
@@ -19,7 +19,7 @@
             "price": 109.99,
             "instructor": "Arnim kumar",
             "isFeatured": true,
-            "image": "/courses/piano.jpg" ,
+            "image": "/courses/android.jpeg" ,
             "Link" : "https://github.com/ryanmcdermott/clean-code-javascript"
           },
           {
@@ -30,7 +30,7 @@
             "price": 119.99,
             "instructor": "Emily Johnson",
             "isFeatured": true,
-            "image": "/courses/vocalist.jpg" ,
+            "image": "/courses/react.jpg" ,
             "Link" : "https://github.com/angular/angular"
           },
           {
@@ -41,7 +41,7 @@
             "price": 129.99,
             "instructor": "Mike Brown",
             "isFeatured": false,
-            "image": "/courses/drumming.jpg",
+            "image": "/courses/android.jpeg",
             "Link" : "https://github.com/vercel/next.js"
           },
           {
@@ -52,7 +52,7 @@
             "price": 129.99,
             "instructor": "Mike Brown",
             "isFeatured": false,
-            "image": "/courses/drumming.jpg",
+            "image": "/courses/java.png",
             "Link":"https://github.com/orgs/django/repositories"
           }
     ]

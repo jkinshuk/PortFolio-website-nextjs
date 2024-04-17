@@ -53,19 +53,19 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
           <div className="flex space-x-4">
             <a
-              href="#"
+              href="https://github.com/jkinshuk"
               className="hover:text-white transition-colors duration-300"
             >
-              Facebook
+              Github
             </a>
             <a
-              href="#"
+              href="https://www.twitter.com/kinshukjainnn"
               className="hover:text-white transition-colors duration-300"
             >
               Twitter
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/j.kinshuk_/"
               className="hover:text-white transition-colors duration-300"
             >
               Instagram
@@ -76,8 +76,8 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
           <p>New Delhi, India</p>
           <p>Delhi 10001</p>
-          <p>Email: info@musicschool.com</p>
-          <p>Phone: (123) 456-7890</p>
+          <p>Email: Kinshuk25jan04@gmail.com</p>
+          <p>Phone: +91 9172702501</p>
         </div>
         </div>
         <p className="text-center text-xs pt-8">© 2024 Music School. All rights reserved.</p>
